@@ -1,11 +1,8 @@
 body {
-    min-width: 400px;
-    min-height: 400px;
+    text-align: center;
+    margin: 0;
 }
 
-.popup-padded {
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
+.search-input {
+  width: 100%;
 }
